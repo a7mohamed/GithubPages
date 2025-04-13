@@ -2,7 +2,7 @@
 
 ## About Me 👋
 
-I'm a programmer who loves **building things** and *solving problems*. Here's what I enjoy:
+My name is Abdirahman Mohamed. I am a student at UCSD. I'm a programmer who loves **building things** and *solving problems*. Here's what I enjoy:
 - Coding in Python, C++, and Java
 - Learning new technologies
 
