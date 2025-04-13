@@ -6,7 +6,7 @@ My name is Abdirahman Mohamed. I am a student at UCSD. I'm a programmer who love
 - Coding in Python, C++, and Java
 - Learning new technologies
 
-![My Profile Picture](profile.jpg)
+![My Campus Library](geisel_library.jpg)
 
 ### My Skills
 
